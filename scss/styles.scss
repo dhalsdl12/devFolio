@@ -658,7 +658,7 @@ footer {
 
 .project {
     position: relative;
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto 30px auto;
     overflow: hidden;
     background: #fff;
@@ -673,7 +673,7 @@ footer {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    margin-left: 300px;
+    margin-left: 400px;
     padding: 15px;
 
     h3 {
@@ -703,6 +703,11 @@ footer {
     display: none;
 }
 
+/*
+    -------------------------------
+    ----- 8. Award Styles -----
+    -------------------------------
+*/
 #awards {
     padding: 50px 15px;
     border-bottom: 1px solid $border;
@@ -716,7 +721,7 @@ footer {
 
 .award {
     position: relative;
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto 30px auto;
     overflow: hidden;
     background: #fff;
@@ -731,7 +736,7 @@ footer {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    margin-left: 300px;
+    margin-left: 400px;
     padding: 15px;
 
     h3 {
