@@ -93,9 +93,9 @@
         
 #projects{padding:50px 15px;border-bottom:1px solid #dcd9d9;text-align:center}
 #projects h2{color:#374054;margin-bottom:50px}
-    .project{position:relative;max-width:1200px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px}
+    .project{position:relative;max-width:900px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px}
     .project-image{float:left}
-    .project-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:400px;padding:15px}
+    .project-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:300px;padding:15px}
     .project-info h3{font-size:1.5em;font-weight:300;color:#374054;margin:0 0 15px 0}
     .project-info p{color:#74808a;margin:0 0 15px 0;font-size:0.9em}
     .no-image.project-info{position:relative;margin:0;padding:30px 15px;transform:none}
@@ -105,13 +105,13 @@
 
 #awards{padding:50px 15px;border-bottom:1px solid #dcd9d9;text-align:center}
 #awards h2{color:#374054;margin-bottom:50px}
-    .award{position:relative;max-width:1200px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px}
+    .award{position:relative;max-width:900px;margin:0 auto 30px auto;overflow:hidden;background:#fff;border-radius:4px}
     .award-image{float:left}
-    .award-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:400px;padding:15px}
+    .award-info{position:absolute;top:50%;transform:translateY(-50%);margin-left:300px;padding:15px}
     .award-info h3{font-size:1.5em;font-weight:300;color:#374054;margin:0 0 15px 0}
     .award-info p{color:#74808a;margin:0 0 15px 0;font-size:0.9em}
     .no-image.award-info{position:relative;margin:0;padding:30px 15px;transform:none}
-#more-awards{display:none}
+#more-projects{display:none}
 
 
 #skills{padding:50px 15px;text-align:center}
